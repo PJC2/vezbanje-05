@@ -1,0 +1,16 @@
+body{
+    background-image: url(chocolat.jpg);
+}
+
+h1{
+    color:brown;
+    text-align: center;
+
+}
+.glavninaslov {
+    color:blue;
+    background-color:blueviolet;
+    font-size: 60px;
+    text-align: left;
+}
+  
